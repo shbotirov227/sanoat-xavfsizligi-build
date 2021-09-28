@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b36d5df5.chunk.css",
+    "main.js": "/static/js/main.6b573235.chunk.js",
+    "main.js.map": "/static/js/main.6b573235.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9289bf22.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9289bf22.js.map",
+    "static/js/2.4c833cb4.chunk.js": "/static/js/2.4c833cb4.chunk.js",
+    "static/js/2.4c833cb4.chunk.js.map": "/static/js/2.4c833cb4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b36d5df5.chunk.css.map": "/static/css/main.b36d5df5.chunk.css.map",
+    "static/js/2.4c833cb4.chunk.js.LICENSE.txt": "/static/js/2.4c833cb4.chunk.js.LICENSE.txt",
+    "static/media/CardViewImg1.e28ce54d.png": "/static/media/CardViewImg1.e28ce54d.png",
+    "static/media/CardViewImg2.e9c06cf1.png": "/static/media/CardViewImg2.e9c06cf1.png",
+    "static/media/main.scss": "/static/media/FiraSansCondensed-Regular.7a288c47.eot",
+    "static/media/HeadLogo.8f07e628.png": "/static/media/HeadLogo.8f07e628.png",
+    "static/media/LinkCardIcon1.46deea2e.svg": "/static/media/LinkCardIcon1.46deea2e.svg",
+    "static/media/LinkCardIcon2.555b1db5.svg": "/static/media/LinkCardIcon2.555b1db5.svg",
+    "static/media/MediaCardArrow.c770049b.svg": "/static/media/MediaCardArrow.c770049b.svg",
+    "static/media/MediaCardBg1.9f27425f.png": "/static/media/MediaCardBg1.9f27425f.png",
+    "static/media/MediaCardBg2.36778f36.png": "/static/media/MediaCardBg2.36778f36.png",
+    "static/media/MediaCardBg3.1024dfa0.png": "/static/media/MediaCardBg3.1024dfa0.png",
+    "static/media/MediaCardBg4.126d6d53.png": "/static/media/MediaCardBg4.126d6d53.png",
+    "static/media/NewsCardImg1.b2eab118.png": "/static/media/NewsCardImg1.b2eab118.png",
+    "static/media/NewsCardImg2.06c7e0d0.png": "/static/media/NewsCardImg2.06c7e0d0.png",
+    "static/media/NewsCardImg3.53f6c156.png": "/static/media/NewsCardImg3.53f6c156.png",
+    "static/media/NewsCardImg4.6c585c45.png": "/static/media/NewsCardImg4.6c585c45.png",
+    "static/media/Uzb.e4b9c448.png": "/static/media/Uzb.e4b9c448.png",
+    "static/media/Navbar.scss": "/static/media/navbarModalBg3.309f9f0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9289bf22.js",
+    "static/js/2.4c833cb4.chunk.js",
+    "static/css/main.b36d5df5.chunk.css",
+    "static/js/main.6b573235.chunk.js"
+  ]
+}
